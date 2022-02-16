@@ -1,0 +1,1 @@
+[Write Your First WASM Module using Rust](https://www.youtube.com/watch?v=nW71Mlbmxt8)
